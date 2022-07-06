@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![2022-07-06 23.52.23](https://rmt.ladydaily.com/fetch/ZYGG/storage/20220707002108360226.png)
+![2022-07-06 23.52.23](2022-07-06%2023.52.23.png)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning vue golang rust ...
