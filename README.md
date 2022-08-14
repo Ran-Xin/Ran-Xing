@@ -17,6 +17,5 @@
 #### Statistical data   |   Welcome To The Public Account
 
 ![XRSec's GitHub top-langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ran-Xing&layout=compact)
-![WeChat](https://rmt.ladydaily.com/fetch/ZYGG/storage/wechat.jpg)
 ![XRSec's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ran-Xing&show_icons=true&theme=cobalt)
 ![XRSec's GitHub stats](https://activity-graph.herokuapp.com/graph?username=RAN-XING&theme=react-dark)
