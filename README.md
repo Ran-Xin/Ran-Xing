@@ -10,7 +10,7 @@
 - 😄 Pronouns: XRSec ...
 - ⚡ Fun fact: noting ...
 
-![about](https://img.shields.io/badge/Ran-Xing-da282a)      ![about](https://img.shields.io/badge/低调求发展-潜心习安全-da282a)        [![Email](https://img.shields.io/badge/Email-troy@zygd.site-da282a)](mailto:troy@zygd.site)        [![My Blog](https://img.shields.io/badge/Blog-blog.zygd.site-da282a)](https://blog.zygd.site)
+![about](https://img.shields.io/badge/Ran-Xing-da282a)      ![about](https://img.shields.io/badge/低调求发展-潜心习安全-da282a)        [![Email](https://img.shields.io/badge/Email-Jalapeno1868@outlook.com-da282a)](mailto:Jalapeno1868@outlook.com)        [![My Blog](https://img.shields.io/badge/Blog-xrsec.vercel.app-da282a)](https://xrsec.vercel.app)
 
 ---
 
